@@ -60,8 +60,8 @@ balaji-portfolio/
 **Name:** Balaji Shashank K
 
 - GitHub: https://github.com/balaji402-ui
-- LinkedIn: *(Add your LinkedIn profile link here)*
-- Email: *(Add your email here)*
+- LinkedIn: *(www.linkedin.com/in/balaji-shashank-k-074755366)*
+- Email: *(balajishashank402@gmail.com)*
 
 ## ⭐ Support
 
