@@ -8,7 +8,7 @@ https://balaji402-ui.github.io/balaji-portfolio/
 
 ## 👨‍💻 About Me
 
-I am a BBA graduate with a strong interest in Data Analytics and Business Intelligence. I enjoy transforming raw data into meaningful insights using SQL, Excel, Power BI, Tableau, Python, and Databricks.
+I am a BBA graduate with a strong interest in Data Analytics and Business Intelligence. I enjoy transforming raw data into meaningful insights using SQL, Excel, Power BI, AI, Tableau, Python, and Databricks.
 
 ## 🚀 Features
 
